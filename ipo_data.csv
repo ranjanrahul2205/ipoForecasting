@@ -1,0 +1,671 @@
+,Equity,Issue price,Listed Date,Open,Close,Listing Gains (%ge),CMP,Current gains %ge
+0,Anupam Rasayan,555.0,24th Mar,534.7,525.9,-5.24,502.6,-9.44
+1,Heranba,627.0,5th Mar,900.0,812.25,29.55,628.0,0.16
+2,Railtel,94.0,26th Feb,109.0,121.4,29.15,128.6,36.81
+3,Nureca,400.0,25th Feb,634.95,666.65,66.66,586.8,46.7
+4,Stove Kraft,385.0,5th Feb,498.0,445.95,15.83,449.3,16.7
+5,Home First,518.0,3rd Feb,612.15,527.4,1.81,464.15,-10.4
+6,Indigo Paints,1490.0,2nd Feb,2607.5,3118.65,109.31,,53.42
+7,IRFC,26.0,29th Jan,25.0,24.85,-4.42,23.05,-11.35
+8,Antony Waste,315.0,1st Jan,430.0,407.25,29.29,255.15,-19.0
+9,Bectors Food,288.0,24th Dec,501.0,595.55,106.79,336.35,16.79
+10,Burger King,60.0,14th Dec,115.35,138.4,130.67,135.3,125.5
+11,Gland,1500.0,20th Nov,1710.0,1820.45,21.36,,59.72
+12,Equitas Bank,33.0,2nd Nov,31.0,32.75,-0.76,59.6,80.61
+13,UTI AMC,554.0,12th Oct,476.2,476.6,-13.97,562.15,1.47
+14,Mazagon Dock,145.0,12th Oct,216.25,173.0,19.31,206.35,42.31
+15,Angel Broking,306.0,5th Oct,275.0,275.85,-9.85,304.75,-0.41
+16,CAMS,1230.0,1st Oct,1535.0,1401.6,13.95,,44.23
+17,Chemcon Special,340.0,1st Oct,731.0,584.8,72.0,406.0,19.41
+18,Route,350.0,21st Sep,708.0,651.1,86.03,,300.51
+19,Happiest Minds,166.0,17th Sep,351.0,371.0,123.49,520.55,213.58
+20,Rossari,425.0,23rd Jul,670.0,742.35,74.67,,139.92
+21,SBI Card,755.0,16th Mar,658.0,683.2,-9.51,916.4,21.38
+22,Prince Pipes,178.0,30th Dec,160.0,166.6,-6.4,403.15,126.49
+23,Ujjivan Small,37.0,12th Dec,58.75,55.9,51.08,30.75,-16.89
+24,CSB Bank,195.0,4th Dec,275.0,300.1,53.9,240.1,23.13
+25,Goblin India,52.0,16th Oct,57.9,57.9,11.35,24.5,-52.88
+26,Vishwaraj Sugar,60.0,15th Oct,61.2,,,126.9,111.5
+27,Sona Hi Sona,10.0,15th Oct,11.15,,,12.0,20.0
+28,Gensol Engineer,83.0,15th Oct,85.4,86.25,3.92,87.5,5.42
+29,IRCTC,320.0,14th Oct,644.0,728.6,127.69,,433.08
+30,Galactico Corp,27.0,9th Oct,23.2,23.05,-14.63,40.25,49.07
+31,Salasar Ext,36.0,12th Sep,36.0,,,13.8,-61.67
+32,Sterling & Wils,780.0,20th Aug,700.0,725.35,-7.01,273.0,-65.0
+33,Novateor Labs,24.0,13th Aug,24.0,,,6.15,-74.38
+34,Affle India,745.0,8th Aug,929.9,,,,585.91
+35,Wonder Fibromat,90.0,6th Aug,93.0,,,62.5,-30.56
+36,City Pulse Mult,30.0,11th Jul,28.5,29.65,-1.17,12.4,-58.67
+37,SBC Exports,22.0,4th Jul,22.0,23.1,5.0,42.8,94.55
+38,Indiamart Inter,973.0,4th Jul,1180.0,1302.55,33.87,,687.42
+39,Anand Rayons,27.0,2nd Jul,28.25,27.2,0.74,31.5,16.67
+40,Parshva Enterpr,45.0,1st Jul,45.85,46.0,2.22,95.9,113.11
+41,Suich Industrie,75.0,13th Jun,68.5,71.35,-4.87,4.55,-93.93
+42,Cian Healthcare,65.0,23rd May,62.0,61.5,-5.38,11.6,-82.15
+43,Par Drugs,51.0,16th May,52.9,,,112.45,120.49
+44,Artemis,60.0,14th May,70.0,69.85,16.42,43.7,-27.17
+45,Evans Electric,52.0,13th May,52.2,54.8,5.38,285.0,448.08
+46,White Organic,63.0,10th May,64.2,32.15,-48.97,34.75,-44.84
+47,Neogen,0.0,8th May,251.0,263.55,0.0,767.0,
+48,G K P Printing,32.0,8th May,34.2,35.0,9.38,31.5,-1.56
+49,V R Films,61.0,30th Apr,62.0,60.0,-1.64,123.0,101.64
+50,Jinaam's Dress,59.0,25th Apr,59.0,56.1,-4.92,3.5,-94.07
+51,Polycab,538.0,16th Apr,633.0,,,,151.85
+52,Metropolis,880.0,15th Apr,960.0,959.55,9.04,,125.57
+53,Kalpatarus,38.0,12th Apr,36.5,,,37.2,-2.11
+54,Rail Vikas,19.0,11th Apr,19.0,19.05,0.26,27.65,45.53
+55,Osia Hyper Reta,252.0,5th Apr,267.0,,,145.0,-42.46
+56,Northern Spirit,43.0,4th Apr,43.1,,,23.0,-46.51
+57,Embassy Office,300.0,1st Apr,300.0,314.1,4.7,325.35,8.45
+58,MSTC,128.0,29th Mar,111.0,114.2,-10.78,293.15,129.02
+59,Artedz Fabs,36.0,29th Mar,40.0,,,22.4,-37.78
+60,Humming Bird,132.0,28th Mar,132.0,132.0,0.0,90.6,-31.36
+61,Aartech Solonic,34.0,27th Mar,33.95,34.6,1.76,37.0,8.82
+62,Ashapuri Gold,51.0,27th Mar,50.0,51.0,0.0,45.0,-11.76
+63,Mahip Industrie,32.0,12th Mar,32.0,33.6,5.0,3.8,-88.13
+64,Gleam Fabmat,10.0,5th Mar,9.0,8.55,-14.5,1.73,-82.7
+65,Mindpool Techno,30.0,28th Feb,30.0,,,16.6,-44.67
+66,Kranti Industri,37.0,28th Feb,35.25,36.95,-0.14,18.5,-50.0
+67,Jonjua Overseas,10.0,25th Feb,12.0,10.71,7.1,67.0,570.0
+68,Anmol India,33.0,21st Feb,33.6,34.15,3.48,78.0,136.36
+69,Chalet Hotels,280.0,7th Feb,291.0,290.4,3.71,155.1,-44.61
+70,Ritco Logistics,73.0,7th Feb,77.4,73.55,0.75,16.5,-77.4
+71,Surani Steel Tu,52.0,6th Feb,53.1,,,19.1,-63.27
+72,Xelpmoc Design,66.0,4th Feb,56.0,58.8,-10.91,265.1,301.67
+73,Axita Cotton,60.0,10th Jan,61.0,31.05,-48.25,34.0,-43.33
+74,Deccan Health C,100.0,31st Dec,113.4,113.4,13.4,30.0,-70.0
+75,Shankar Lal Ram,45.0,24th Dec,46.15,35.1,-22.0,42.05,-6.56
+76,DRS Dilip Roadl,75.0,10th Dec,75.15,,,73.35,-2.2
+77,SHUBHLAXMI,26.0,4th Dec,27.02,,,14.25,-45.19
+78,Diksha Greens,30.0,4th Dec,35.9,,,6.61,-77.97
+79,Roni Households,20.0,3rd Dec,20.05,20.5,2.5,65.0,225.0
+80,Shree Krishna,13.0,3rd Dec,12.35,12.35,-5.0,7.41,-43.0
+81,BCPL Railway In,35.0,29th Oct,35.0,,,71.0,102.86
+82,Ultra Wiring Co,35.0,25th Oct,33.05,,,29.9,-14.57
+83,Vivid Mercant,51.0,23rd Oct,53.0,40.48,-20.63,16.8,-67.06
+84,S.M. Gold,30.0,19th Oct,30.6,20.33,-32.23,33.2,10.67
+85,Iris Clothings,90.0,18th Oct,0.0,,,87.0,-3.33
+86,Sun Retail,23.0,16th Oct,36.0,37.8,64.35,28.5,23.91
+87,B&B Triplewall,36.0,15th Oct,37.8,,,78.7,118.61
+88,AKI India,11.05,12th Oct,11.0,11.55,4.52,12.0,8.6
+89,Shubham Polyspi,40.0,12th Oct,41.8,21.93,-45.18,58.1,45.25
+90,Vinny Overseas,40.0,11th Oct,40.5,,,35.0,-12.5
+91,Kritika Wires,32.0,10th Oct,34.1,,,36.7,14.69
+92,Silgo Retail,36.0,10th Oct,36.25,,,58.1,61.39
+93,Garden Reach Sh,118.0,10th Oct,104.0,,,185.25,56.99
+94,Parin Furniture,63.0,9th Oct,64.0,,,51.25,-18.65
+95,Rajnandini Meta,26.0,8th Oct,35.0,,,86.1,231.15
+96,Kshitij Polylin,35.0,8th Oct,35.5,,,24.4,-30.29
+97,AAVAS Financier,821.0,8th Oct,758.0,773.15,-5.83,,180.77
+98,Innovative Idea,40.0,5th Oct,43.0,45.15,12.87,7.5,-81.25
+99,Misquita Engine,27.0,4th Oct,27.85,,,26.5,-1.85
+100,Manorama Indust,188.0,4th Oct,190.2,,,770.0,309.57
+101,Sky Gold,180.0,3rd Oct,180.45,180.45,0.25,181.5,0.83
+102,Spectrum Electr,65.0,1st Oct,66.5,,,57.0,-12.31
+103,Ircon Internati,475.0,28th Sep,422.0,,,80.95,-82.96
+104,Ahlada Engineer,150.0,27th Sep,141.0,,,89.45,-40.37
+105,AKG Exim,31.0,26th Sep,33.5,,,77.5,150.0
+106,Ranjeet Mechatr,25.0,26th Sep,27.5,28.85,15.4,10.05,-59.8
+107,Lagnam Spintex,41.0,18th Sep,41.0,,,14.2,-65.37
+108,Sumit Woods,45.0,10th Sep,47.95,,,9.8,-78.22
+109,Marshall Machin,42.0,7th Sep,37.45,,,10.55,-74.88
+110,Supreme Enginee,32.0,6th Sep,27.1,,,26.7,-16.56
+111,Aaron Industrie,38.0,3rd Sep,36.1,,,56.1,47.63
+112,Dangee Dums,74.0,3rd Sep,89.9,,,129.45,74.93
+113,Powerful Techno,51.0,28th Aug,48.0,,,3.5,-93.14
+114,Sungold Media &,10.0,27th Aug,9.75,9.71,-2.9,6.84,-31.6
+115,CreditAccess Gr,422.0,23rd Aug,393.0,420.8,-0.28,669.0,58.53
+116,Tembo Global,69.0,13th Aug,69.3,,,102.0,47.83
+117,HDFC AMC,1100.0,6th Aug,1726.0,,,,155.99
+118,Ushanti Colour,60.0,2nd Aug,61.0,,,31.55,-47.42
+119,Ganesh Films In,80.0,31st Jul,82.0,,,8.3,-89.63
+120,TCNS Clothing C,716.0,30th Jul,715.0,657.8,-8.13,503.55,-29.67
+121,Supershakti Met,375.0,30th Jul,377.0,188.25,-49.8,275.0,-26.67
+122,Avro India,51.0,26th Jul,52.0,,,43.95,-13.82
+123,Ambani Organics,66.0,18th Jul,66.65,,,49.9,-24.39
+124,Raw Edge Indust,72.0,18th Jul,72.1,72.4,0.56,49.0,-31.94
+125,RUDRABHISHEK,41.0,13th Jul,41.25,,,186.0,353.66
+126,Ganga Forging,21.0,11th Jul,20.15,,,40.5,92.86
+127,Jakharia Fabric,180.0,11th Jul,180.0,,,141.5,-21.39
+128,Bright Solar,36.0,9th Jul,36.6,,,10.8,-70.0
+129,Varroc Engineer,967.0,6th Jul,1015.0,,,370.0,-61.74
+130,Fine Organics,783.0,2nd Jul,815.0,822.8,5.08,,182.25
+131,RITES,185.0,2nd Jul,190.0,170.16,-8.02,240.5,30.0
+132,Accuracy Shippi,84.0,22nd Jun,86.0,,,53.25,-36.61
+133,Priti Internati,75.0,21st Jun,81.0,,,95.15,26.87
+134,Shreeoswal Seed,25.0,20th Jun,27.1,,,29.0,16.0
+135,Waa Solar,161.0,12th Jun,153.0,,,92.0,-42.86
+136,Palm Jewels,30.0,12th Jun,35.7,,,70.95,136.5
+137,Rajnish Wellnes,95.0,9th Jun,100.0,,,11.44,-87.96
+138,Nakoda Group,35.25,6th Jun,35.0,,,25.25,-28.37
+139,Affordable Robo,85.0,4th Jun,88.0,,,90.75,6.76
+140,Debock Sales,20.0,4th Jun,20.35,,,7.7,-61.5
+141,Arihant Institu,30.0,4th Jun,29.25,,,1.95,-93.5
+142,Suumaya Ind.,18.0,4th Jun,18.0,,,174.75,870.83
+143,Innovators Faca,72.0,24th May,72.0,75.6,5.0,38.0,-47.22
+144,Megastar Foods,30.0,24th May,30.5,31.0,3.33,25.1,-16.33
+145,Milestone Furni,45.0,23rd May,42.25,40.35,-10.33,17.6,-60.89
+146,U. H. Zaveri,36.0,22nd May,25.65,25.65,-28.75,8.5,-76.39
+147,Indostar Capita,572.0,21st May,600.6,585.5,2.36,317.4,-44.51
+148,Five Core,140.0,21st May,140.9,,,31.7,-77.36
+149,E2E Networks,57.0,15th May,52.0,,,38.6,-32.28
+150,Sov Gold 2018-1,0.0,11th May,0.0,,,,
+151,Dr Lalchandani,30.0,9th May,29.95,,,11.0,-63.33
+152,Mahickra Chemic,25.0,26th Apr,36.75,,,79.1,216.4
+153,Bombay Super,60.0,25th Apr,60.0,,,134.0,123.33
+154,Penta Gold,37.0,25th Apr,37.0,,,95.2,157.3
+155,Narmada Agrobas,0.0,19th Apr,31.45,,,10.15,
+156,MMP Industries,188.0,12th Apr,188.0,,,84.8,-54.89
+157,Soni Soya Produ,25.0,12th Apr,26.0,,,9.3,-62.8
+158,S.S. Infrastruc,40.0,12th Apr,40.0,,,10.15,-74.63
+159,Giriraj Civil D,0.0,12th Apr,0.0,,,73.85,
+160,Vera Synthetic,40.0,12th Apr,45.0,,,35.7,-10.75
+161,AVG Logistics,107.0,11th Apr,107.0,,,48.6,-54.58
+162,Lemon Tree Hote,56.0,9th Apr,61.6,,,35.95,-35.8
+163,Taylormade Rene,30.0,6th Apr,0.0,,,7.16,-76.13
+164,Orissa Bengal C,0.0,5th Apr,33.45,,,24.0,
+165,ICICI Securitie,520.0,5th Apr,435.0,444.9,-14.44,401.0,-22.88
+166,Continental See,0.0,4th Apr,0.0,,,6.2,
+167,Mishra Dhatu Ni,0.0,4th Apr,93.1,90.0,0.0,177.55,
+168,Lex Nimble Solu,57.0,4th Apr,55.35,,,32.0,-43.86
+169,Kapston Facilit,0.0,4th Apr,0.0,,,102.75,
+170,Benara Bearings,63.0,3rd Apr,0.0,,,9.0,-85.71
+171,Sandhar Technol,0.0,2nd Apr,0.0,,,206.65,
+172,Yasho Industrie,100.0,2nd Apr,0.0,,,272.0,172.0
+173,Mittal Life Sty,21.0,2nd Apr,0.0,,,10.75,-48.81
+174,Karda Construct,180.0,2nd Apr,0.0,,,113.15,-37.14
+175,Hindustan Aeron,1215.0,28th Mar,1159.0,1128.35,-7.13,974.45,-19.8
+176,Bandhan Bank,375.0,27th Mar,485.0,477.2,27.25,345.05,-7.99
+177,Ridings Consult,18.0,26th Mar,0.0,18.0,0.0,8.35,-53.61
+178,Advitiya Trade,0.0,26th Mar,0.0,,,15.5,
+179,Active Clothing,65.0,26th Mar,0.0,65.65,1.0,10.05,-84.54
+180,Bharat Dynamics,428.0,23rd Mar,360.0,390.7,-8.71,331.5,-22.55
+181,Marvel Decor Lt,0.0,23rd Mar,0.0,57.85,0.0,22.0,
+182,Tara Chand Logi,0.0,23rd Mar,0.0,49.05,0.0,33.6,
+183,Macpower,0.0,22nd Mar,0.0,158.87,0.0,90.0,
+184,Shreeshay Engin,15.0,21st Mar,0.0,15.23,1.53,16.0,6.67
+185,Uniinfo Telecom,55.0,15th Mar,55.75,55.75,1.36,20.55,-62.64
+186,East India Sec,920.0,13th Mar,930.0,930.0,1.09,,9.24
+187,HG Infra Engg,270.0,9th Mar,270.0,270.05,0.02,280.15,3.76
+188,Banka Bioloo,115.0,26th Feb,115.0,,,57.55,-49.96
+189,Aster DM Health,190.0,26th Feb,182.0,179.85,-5.34,134.65,-29.13
+190,Tasty Dairy Spe,45.0,21st Feb,48.35,,,21.35,-52.56
+191,Bhatia Communic,150.0,20th Feb,150.0,,,68.0,-54.67
+192,Kenvi Jewels,36.0,16th Feb,39.01,,,11.0,-69.44
+193,Sintercom India,65.0,15th Feb,78.0,78.0,20.0,82.8,27.38
+194,A and M Jumbo B,65.0,12th Feb,65.0,16.64,-74.4,9.1,-86.0
+195,Galaxy Surfacta,1480.0,8th Feb,1525.0,1698.1,14.74,,60.47
+196,Gujarat Hy-Spin,10.0,8th Feb,10.81,,,7.99,-20.1
+197,Focus Suits Sol,18.0,8th Feb,21.6,,,1.45,-91.94
+198,Vasa Retail and,30.0,6th Feb,51.8,36.0,20.0,6.0,-80.0
+199,Solex Energy,52.0,5th Feb,43.5,,,33.25,-36.06
+200,Shree Ram Proti,31.0,5th Feb,28.95,32.55,5.0,28.5,-8.06
+201,CRP Risk Manage,60.0,31st Jan,49.7,,,24.4,-59.33
+202,Amber Enterpris,859.0,30th Jan,1175.0,1237.25,44.03,,253.95
+203,Newgen Software,245.0,29th Jan,256.0,253.0,3.27,272.6,11.27
+204,Apollo Micro Sy,275.0,22nd Jan,478.0,454.1,65.13,94.05,-65.8
+205,SKS Textiles,150.0,19th Jan,93.0,133.35,-11.1,25.15,-83.23
+206,Silly Monks Ent,120.0,17th Jan,141.8,,,19.4,-83.83
+207,Jhandewalas Foo,55.0,12th Jan,73.6,,,9.5,-82.73
+208,Rithwik Facilit,50.0,11th Jan,37.0,,,43.6,-12.8
+209,Brand Concepts,45.0,10th Jan,77.5,54.0,20.0,27.5,-38.89
+210,Moksh Ornaments,37.0,3rd Jan,0.0,44.4,20.0,43.0,16.22
+211,Ajooni Biotech,30.0,2nd Jan,36.0,32.4,8.0,30.0,0.0
+212,Astron Paper &,50.0,29th Dec,120.75,119.7,139.4,41.5,-17.0
+213,MRC Exim,15.0,18th Dec,10.75,12.5,-16.67,6.99,-53.4
+214,Future Supply,664.0,18th Dec,674.0,685.8,3.28,73.55,-88.92
+215,Shalby,248.0,15th Dec,237.0,239.25,-3.53,98.05,-60.46
+216,Ratnabhumi Deve,63.0,14th Dec,52.65,63.55,0.87,43.1,-31.59
+217,Dynamic Cables,40.0,14th Dec,62.6,48.0,20.0,23.75,-40.63
+218,Innovana,70.0,12th Dec,132.95,33.44,-52.23,91.0,30.0
+219,Shradha Infra,70.0,11th Dec,70.05,66.9,-4.43,43.25,-38.21
+220,ICE Make Refrig,57.0,8th Dec,105.85,68.4,20.0,67.0,17.54
+221,Felix Industrie,35.0,5th Dec,36.45,35.8,2.29,40.65,16.14
+222,Zodiac Energy,52.0,5th Dec,52.5,25.55,-50.87,12.25,-76.44
+223,Silver Touch Te,121.0,1st Dec,126.8,122.0,0.83,85.0,-29.75
+224,Vertoz Advertis,108.0,24th Nov,253.0,,,241.45,123.56
+225,Pulz Electronic,54.0,24th Nov,52.2,32.03,-40.69,10.25,-81.02
+226,Sanghvi Brands,69.0,22nd Nov,175.5,,,11.55,-83.26
+227,ANI Integrated,100.0,20th Nov,166.25,120.0,20.0,35.55,-64.45
+228,HDFC Life,290.0,17th Nov,313.0,344.25,18.71,669.0,130.69
+229,Khadim India,750.0,14th Nov,727.0,688.5,-8.2,147.05,-80.39
+230,SecUR Credentia,205.0,13th Nov,236.95,198.6,-3.12,14.0,-93.17
+231,Mahindra Logist,429.0,10th Nov,425.0,429.15,0.03,526.8,22.8
+232,Nippon,252.0,6th Nov,289.0,284.0,12.7,322.4,27.94
+233,Sov Gold Bonds,0.0,31st Oct,0.0,,,,
+234,Sheetal Cool Pr,80.0,30th Oct,136.5,,,161.0,101.25
+235,Kaarya Faciliti,40.0,27th Oct,59.0,,,27.3,-31.75
+236,General Insuran,912.0,25th Oct,870.4,435.2,-52.28,203.05,-77.74
+237,IEX,1650.0,23rd Oct,1500.0,162.65,-90.14,330.55,-79.97
+238,D. P. Abhushan,28.0,23rd Oct,83.8,33.6,20.0,113.0,303.57
+239,Godrej Agrovet,460.0,16th Oct,615.0,595.55,29.47,484.0,5.22
+240,Shree Ganesh Re,36.0,13th Oct,39.5,,,265.75,638.19
+241,Shreeji Translo,130.0,13th Oct,164.5,,,55.0,-57.69
+242,Omfurn India,23.0,13th Oct,23.5,22.85,-0.65,9.55,-58.48
+243,Beta Drugs,85.0,12th Oct,192.75,101.95,19.94,116.2,36.71
+244,Siddharth Educa,35.0,12th Oct,43.35,,,14.75,-57.86
+245,CMM Infraprojec,40.0,12th Oct,97.95,42.25,5.63,4.55,-88.63
+246,Tirupati Forge,29.0,12th Oct,71.55,21.31,-26.52,26.1,-10.0
+247,Reliable Data S,57.0,11th Oct,61.0,57.0,0.0,23.75,-58.33
+248,Jash Engineerin,120.0,11th Oct,198.6,144.0,20.0,286.3,138.58
+249,IRIS Business S,32.0,11th Oct,66.05,,,31.85,-0.47
+250,Goldstar Power,25.0,10th Oct,38.05,26.3,5.2,21.1,-15.6
+251,Mehai Technolog,40.0,9th Oct,77.5,,,104.5,161.25
+252,RKEC Projects,45.0,9th Oct,150.4,54.0,20.0,60.95,35.44
+253,Jet Knitwears,39.0,7th Oct,46.8,,,19.8,-49.23
+254,Vanta Bioscienc,50.0,6th Oct,69.0,,,161.1,222.2
+255,Airo Lam,38.0,6th Oct,45.95,45.6,20.0,27.0,-28.95
+256,Trident Texofab,30.0,5th Oct,89.35,,,26.9,-10.33
+257,Share India Sec,41.0,5th Oct,86.5,,,260.2,534.63
+258,Innovative Tyre,45.0,5th Oct,43.45,47.15,4.78,8.4,-81.33
+259,Prataap Snacks,938.0,5th Oct,1250.0,1178.3,25.62,615.95,-34.33
+260,D P Wires,75.0,5th Oct,75.5,75.0,0.0,106.0,41.33
+261,Aarvi Encon,54.0,5th Oct,111.0,54.5,0.93,50.95,-5.65
+262,R M Drip & Spri,57.0,4th Oct,72.0,58.8,3.16,22.1,-61.23
+263,SBI Life Insura,700.0,3rd Oct,735.0,708.0,1.14,871.0,24.43
+264,Madhya Pradesh,66.0,29th Sep,130.6,79.2,20.0,19.0,-71.21
+265,Worth Periphera,43.0,27th Sep,113.25,51.6,20.0,50.75,18.02
+266,ICICI Lombard,661.0,27th Sep,651.0,681.55,3.11,,110.29
+267,Baba Agro Food,55.0,26th Sep,46.5,49.0,-10.91,70.0,27.27
+268,Capacite Infra,250.0,25th Sep,360.0,342.4,36.96,193.35,-22.66
+269,Matrimony.com,985.0,21st Sep,985.0,901.2,-8.51,918.5,-6.75
+270,Bharat Road Net,205.0,18th Sep,205.0,208.15,1.54,28.9,-85.9
+271,Manav Infra Pro,30.0,18th Sep,21.0,24.0,-20.0,4.9,-83.67
+272,Dixon Technolog,1766.0,18th Sep,2725.0,578.56,-67.24,,90.35
+273,Nouritrans Exim,30.0,15th Sep,10.71,,,0.98,-96.73
+274,A & M Febcon,18.0,14th Sep,13.25,,,1.74,-90.33
+275,ANG Lifescience,80.0,8th Sep,79.0,,,85.05,6.31
+276,Pashupati Cotsp,75.0,8th Sep,74.6,75.0,0.0,80.25,7.0
+277,Shish Industrie,30.0,5th Sep,29.9,14.98,-50.07,36.2,20.67
+278,Apex Frozen,175.0,4th Sep,202.0,209.85,19.91,208.15,18.94
+279,Geekay Wires,33.0,24th Aug,36.75,33.25,0.76,77.15,133.79
+280,Servotech Power,31.0,24th Aug,39.0,31.85,2.74,20.2,-34.84
+281,Vaishali Pharma,72.0,22nd Aug,49.75,70.35,-2.29,35.25,-51.04
+282,CHOTHANI FOODS,10.0,22nd Aug,10.95,,,3.85,-61.5
+283,Cochin Shipyard,432.0,11th Aug,461.0,522.0,20.83,348.45,-19.34
+284,SIS,815.0,10th Aug,875.0,378.35,-53.58,392.8,-51.8
+285,Globalspace Tec,66.0,7th Aug,65.0,65.65,-0.53,62.5,-5.3
+286,Keerti Knowledg,52.0,7th Aug,45.0,16.53,-68.21,24.0,-53.85
+287,Total Transport,45.0,7th Aug,68.45,54.0,20.0,44.6,-0.89
+288,Shanti Overseas,50.0,3rd Aug,41.45,28.6,-42.8,23.5,-53.0
+289,Captain Technoc,40.0,1st Aug,43.0,24.0,-40.0,26.0,-35.0
+290,Jigar Cables,30.0,28th Jul,50.0,36.0,20.0,35.5,18.33
+291,Univastu India,40.0,27th Jul,57.6,20.1,-49.75,34.3,-14.25
+292,Salasar Techno,108.0,25th Jul,259.45,272.1,151.94,359.0,232.41
+293,Shrenik,40.0,18th Jul,551.8,1.6,-96.0,1.9,-95.25
+294,7NR Retail,27.0,18th Jul,25.9,,,6.87,-74.56
+295,Bansal Multifle,31.0,12th Jul,37.0,35.7,15.16,1.95,-93.71
+296,Transwind Infra,27.0,12th Jul,38.0,32.4,20.0,7.2,-73.33
+297,Gautam Exim,40.0,11th Jul,46.0,43.85,9.63,22.3,-44.25
+298,AU Small Financ,358.0,10th Jul,544.0,541.2,51.17,,220.78
+299,Pushpanjali Rea,55.0,10th Jul,93.0,55.45,0.82,5.05,-90.82
+300,Accord Synergy,60.0,6th Jul,56.5,,,19.8,-67.0
+301,GTPL Hathway,170.0,4th Jul,170.0,171.65,0.97,111.35,-34.5
+302,CDSL,149.0,30th Jun,250.0,261.6,75.57,616.6,313.83
+303,Eris Life,603.0,29th Jun,612.0,601.05,-0.32,581.15,-3.62
+304,Tejas Networks,257.0,27th Jun,257.7,263.3,2.45,160.0,-37.74
+305,Globe Textiles,51.0,23rd Jun,46.9,50.15,-1.67,50.0,-1.96
+306,Shri Ram Switch,19.0,7th Jun,22.5,22.8,20.0,15.8,-16.84
+307,IndiGrid InvIT,100.0,6th Jun,99.7,98.45,-1.55,135.99,35.99
+308,Sov Gold SR- I,2.0,2nd Jun,3.0,,,,226525.0
+309,Jalan Transolut,46.0,31st May,43.1,41.95,-8.8,3.7,-91.96
+310,PSP Projects,210.0,29th May,195.0,208.95,-0.5,460.05,119.07
+311,HUDCO,58.0,19th May,76.5,72.5,25.0,44.4,-23.45
+312,Meera Industrie,36.0,15th May,227.0,,,81.9,127.5
+313,Zota Health Car,125.0,10th May,220.65,89.71,-28.23,145.0,16.0
+314,CKP Products,50.0,9th May,75.0,50.15,0.3,22.2,-55.6
+315,S Chand and Co,670.0,9th May,675.85,675.85,0.87,110.2,-83.55
+316,Starlineps Ent.,13.0,8th May,16.1,,,39.8,206.15
+317,InfoBeans Tech,58.0,2nd May,81.4,69.6,20.0,139.9,141.21
+318,Panache Digilif,81.0,25th Apr,96.0,85.75,5.86,65.25,-19.44
+319,KMS Medisurgi,30.0,24th Apr,30.15,,,33.5,11.67
+320,Sikko Industrie,32.0,18th Apr,38.4,,,19.4,-39.38
+321,ASL Industries,35.0,18th Apr,35.1,,,16.0,-54.29
+322,Escorp Asset Ma,15.0,17th Apr,15.5,,,16.25,8.33
+323,Dev Information,42.0,17th Apr,83.8,50.4,20.0,127.75,204.17
+324,Focus Lighting,45.0,13th Apr,158.55,54.0,20.0,24.0,-46.67
+325,Creative Periph,75.0,12th Apr,98.0,83.25,11.0,105.45,40.6
+326,Relstruct Build,50.0,5th Apr,37.0,46.75,-6.5,3.2,-93.6
+327,Shankara Buildi,460.0,5th Apr,545.0,632.8,37.57,424.0,-7.83
+328,Bohra Industrie,55.0,5th Apr,42.05,57.85,5.18,1.5,-97.27
+329,CL Educate,500.0,31st Mar,398.0,417.9,-16.42,84.0,-83.2
+330,Oceanic Foods,65.0,31st Mar,65.0,21.73,-66.57,57.9,-10.92
+331,Prime Fresh,60.0,31st Mar,195.2,60.5,0.83,124.0,106.67
+332,Laxmi Cotspin,20.0,31st Mar,21.0,19.9,-0.5,9.0,-55.0
+333,Euro India Fres,78.0,31st Mar,150.4,89.85,15.19,82.0,5.13
+334,Manas Propertie,360.0,30th Mar,370.0,,,440.0,22.22
+335,Maximus Interna,25.0,30th Mar,38.0,,,124.5,398.0
+336,Manomay Tex Ind,30.0,28th Mar,59.85,31.95,6.5,33.0,10.0
+337,Chemcrux Enterp,18.0,28th Mar,21.6,21.6,20.0,140.1,678.33
+338,Jash Dealmark,40.0,27th Mar,39.8,19.03,-52.43,11.5,-71.25
+339,Airan,45.0,24th Mar,201.0,5.39,-88.02,16.1,-64.22
+340,Nandani Creatio,28.0,21st Mar,42.0,17.22,-38.5,25.15,-10.18
+341,Avenue Supermar,299.0,21st Mar,604.0,640.75,114.3,,837.99
+342,IFL Enterprises,20.0,21st Mar,10.05,,,21.0,5.0
+343,Music Broadcast,333.0,17th Mar,413.0,59.7,-82.07,23.35,-92.99
+344,Akash Infraproj,125.0,15th Mar,70.05,64.08,-48.74,199.25,59.4
+345,RMC Switchgears,27.0,14th Mar,69.0,,,16.2,-40.0
+346,Nitiraj Enginee,100.0,9th Mar,76.0,75.6,-24.4,47.85,-52.15
+347,Global Educatio,150.0,2nd Mar,233.0,43.9,-70.73,41.9,-72.07
+348,Tanvi Foods,60.0,2nd Mar,68.5,,,48.0,-20.0
+349,Krishana Phosch,30.0,27th Feb,36.25,36.0,20.0,84.7,182.33
+350,Steel City Secu,55.0,17th Feb,52.6,50.1,-8.91,38.9,-29.27
+351,Madhav Copper,81.0,6th Feb,304.0,7.82,-90.35,90.25,11.42
+352,BSE Limited,806.0,3rd Feb,1085.0,1069.2,32.66,541.4,-32.83
+353,Super Fine Knit,12.0,2nd Feb,17.9,12.6,5.0,7.1,-40.83
+354,Maheshwari Logi,68.0,16th Jan,192.3,38.18,-43.85,77.5,13.97
+355,Libas Consumer,68.0,9th Jan,138.9,47.6,-30.0,49.5,-27.21
+356,Laurus Labs,428.0,19th Dec,489.9,96.1,-77.55,348.55,-18.56
+357,Aditya Vision,15.0,12th Dec,103.07,15.27,1.8,184.3,1128.67
+358,Sheela Foam,730.0,9th Dec,860.0,1032.0,41.37,,167.06
+359,Jet Freight Log,28.0,6th Dec,118.8,33.6,20.0,16.65,-40.54
+360,Agro Phos India,22.0,16th Nov,26.4,22.85,3.86,13.55,-38.41
+361,Varun Beverages,445.0,8th Nov,430.0,307.93,-30.8,,125.25
+362,PNB Housing Fin,775.0,7th Nov,860.0,890.6,14.92,372.85,-51.89
+363,Globe Internati,24.0,19th Oct,24.15,19.96,-16.83,16.16,-32.67
+364,Endurance Techn,472.0,19th Oct,572.0,647.7,37.22,,195.06
+365,Art Nirman,25.0,19th Oct,30.05,30.0,20.0,27.0,8.0
+366,India Green Rea,30.0,18th Oct,19.0,,,6.0,-80.0
+367,Pansari Develop,22.0,18th Oct,18.5,22.9,4.09,50.5,129.55
+368,Dhanuka Realty,40.0,18th Oct,41.0,41.25,3.13,7.5,-81.25
+369,Diksat Transwor,40.0,18th Oct,68.0,,,92.0,130.0
+370,Shashijit Infra,15.0,17th Oct,30.05,12.71,-15.27,30.15,101.0
+371,Mewar Hi-Tech E,22.0,17th Oct,23.6,,,28.55,29.77
+372,Aurangabad Dist,35.0,17th Oct,33.9,42.0,20.0,34.05,-2.71
+373,Bindal Exports,16.0,17th Oct,20.07,16.2,1.25,5.0,-68.75
+374,Valiant Organic,220.0,14th Oct,264.0,,,,452.27
+375,Gretex Industri,20.0,14th Oct,18.9,24.0,20.0,10.35,-48.25
+376,HPL Electric &,202.0,4th Oct,190.0,189.05,-6.41,52.25,-74.13
+377,ICICI Prudentia,334.0,29th Sep,329.0,297.65,-10.88,428.5,28.29
+378,Radhika Jewel,75.0,27th Sep,73.95,,,15.3,-79.6
+379,GNA Axles,207.0,27th Sep,252.0,233.45,12.78,356.9,72.42
+380,L&T Technology,860.0,23rd Sep,900.0,865.1,0.59,,189.5
+381,Narayani Steels,32.0,14th Sep,33.45,,,20.3,-36.56
+382,Sprayking Agro,21.0,14th Sep,24.0,,,18.1,-13.81
+383,Mitsu Chem Plas,0.0,9th Sep,0.0,,,104.0,
+384,Shiva Granito E,0.0,6th Sep,0.0,,,2.65,
+385,RBL Bank,225.0,31st Aug,274.4,299.3,33.02,205.0,-8.89
+386,S P Apparels,268.0,12th Aug,275.0,295.0,10.07,152.75,-43.0
+387,Dilip Buildcon,219.0,11th Aug,240.0,251.95,15.05,544.7,148.72
+388,Prabhat Technol,0.0,7th Aug,0.0,,,328.65,
+389,Titaanium Ten E,0.0,1st Aug,0.0,,,4.95,
+390,Advanced Enzyme,896.0,1st Aug,1210.0,235.66,-73.7,336.15,-62.48
+391,Kwality Pharmac,0.0,24th Jul,0.0,,,49.1,
+392,L&T Infotech,710.0,21st Jul,667.0,697.65,-1.74,,435.73
+393,Quess Corp,317.0,12th Jul,500.0,503.0,58.68,687.95,117.02
+394,Yash Chemex,23.0,1st Jul,125.75,10.04,-56.35,39.8,73.04
+395,Mahanagar Gas,421.0,1st Jul,540.0,519.9,23.49,,172.07
+396,United Polyfab,45.0,7th Jun,28.5,14.67,-67.4,13.2,-70.67
+397,Darshan Orna,60.0,1st Jun,150.0,29.05,-51.58,11.0,-81.67
+398,Bajaj Healthcar,0.0,1st Jun,0.0,86.63,0.0,464.0,
+399,Parag Milk Food,215.0,19th May,230.0,247.8,15.26,94.6,-56.0
+400,Sagardeep Alloy,20.0,17th May,29.1,19.0,-5.0,33.6,68.0
+401,Ujjivan Financi,210.0,10th May,231.9,231.6,10.29,212.8,1.33
+402,Thyrocare Techn,446.0,9th May,662.0,618.1,38.59,856.0,91.93
+403,Ghushine Fintrr,10.0,5th May,9.0,8.0,-20.0,7.05,-29.5
+404,Equitas Holding,110.0,21st Apr,145.1,135.25,22.95,85.55,-22.23
+405,Bharat Wire Rop,45.0,1st Apr,47.25,45.4,0.89,35.0,-22.22
+406,Healthcare Glob,218.0,30th Mar,210.2,,,168.1,-22.89
+407,Quick Heal Tech,321.0,18th Feb,305.0,254.45,-20.73,182.4,-43.18
+408,TeamLease Ser.,850.0,12th Feb,860.0,1021.95,20.23,,312.58
+409,Precision Camsh,186.0,8th Feb,165.0,177.25,-4.7,40.0,-78.49
+410,Fourth Dimensio,30.0,22nd Jan,31.8,36.0,20.0,7.2,-76.0
+411,Osiajee,25.0,14th Jan,26.75,27.35,9.4,21.0,-16.0
+412,Narayana Hruda,250.0,6th Jan,291.0,336.7,34.68,389.4,55.76
+413,Dr Lal PathLab,550.0,23rd Dec,717.0,824.15,49.85,,345.65
+414,Alkem Lab,1050.0,23rd Dec,1380.0,1381.45,31.57,,150.38
+415,S H Kelkar,180.0,16th Nov,216.0,207.3,15.17,110.8,-38.44
+416,Interglobe Avi,765.0,10th Nov,868.0,878.45,14.83,,118.47
+417,Coffee Day,328.0,2nd Nov,313.0,270.15,-17.64,26.05,-92.06
+418,Tejnaksh,80.0,27th Oct,80.0,8.26,-89.68,71.9,-10.13
+419,Arambhan,14.0,19th Oct,15.25,16.01,14.36,2.3,-83.57
+420,Vaksons Auto,26.0,16th Oct,26.25,16.88,-35.08,25.35,-2.5
+421,Patdiam Jewel,38.0,16th Oct,43.0,45.15,18.82,81.5,114.47
+422,Vishal Bearing,25.0,15th Oct,26.0,12.13,-51.48,27.3,9.2
+423,Bella Casa,14.0,15th Oct,14.3,14.7,5.0,128.0,814.29
+424,Prabhat Dairy,115.0,21st Sep,113.0,116.35,1.17,94.35,-17.96
+425,Sadbhav Infra,103.0,16th Sep,111.0,106.15,3.06,19.7,-80.87
+426,H K Trade Intl,18.0,14th Sep,18.45,13.07,-27.39,22.35,24.17
+427,Shree Pushkar,65.0,10th Sep,60.05,63.0,-3.08,134.5,106.92
+428,Pennar Eng,178.0,10th Sep,177.95,157.5,-11.52,63.85,-64.13
+429,Navkar Corp,155.0,9th Sep,152.0,166.4,7.35,34.5,-77.74
+430,Universal Auto,15.0,4th Sep,16.0,16.0,6.67,34.75,131.67
+431,THINKINK PICTUR,40.0,2nd Sep,45.0,22.5,-43.75,29.35,-26.63
+432,Power Mech,640.0,26th Aug,600.0,585.75,-8.48,520.0,-18.75
+433,Mangalam Seeds,50.0,12th Aug,57.75,28.88,-42.24,65.2,30.4
+434,Pecos Hotels,50.0,11th Aug,53.25,53.25,6.5,20.0,-60.0
+435,Syngene Intl,250.0,11th Aug,295.0,155.2,-37.92,527.9,111.16
+436,Amrapali Fincap,120.0,5th Aug,122.3,121.0,0.83,19.4,-83.83
+437,Majestic Resear,12.75,16th Jul,14.0,,,6.46,-49.33
+438,Gala Global Prd,24.0,16th Jul,23.4,,,27.9,16.25
+439,M.D. Inducto,27.0,16th Jul,28.1,,,31.1,15.19
+440,Jiya Eco,19.0,16th Jul,21.75,,,5.29,-72.16
+441,Loyal Equip,18.0,16th Jul,20.05,,,29.9,66.11
+442,Ambition Mica,40.0,14th Jul,45.0,15.05,-62.38,5.0,-87.5
+443,VMV Holidays,10.0,14th Jul,10.25,10.5,5.0,13.3,33.0
+444,Mishka Exim,10.0,13th Jul,13.5,13.5,35.0,26.0,160.0
+445,Junction Fabric,16.0,10th Jul,17.5,11.53,-27.94,91.95,474.69
+446,Manpasand Bever,320.0,9th Jul,291.0,163.43,-48.93,6.14,-98.08
+447,Funny Software,14.0,2nd Jun,13.5,13.5,-3.57,0.39,-97.21
+448,PNC Infratech,378.0,26th May,381.0,72.04,-80.94,249.95,-33.88
+449,UFO Moviez,625.0,14th May,600.0,598.8,-4.19,72.2,-88.45
+450,MEP Infra,63.0,6th May,63.0,60.95,-3.25,16.5,-73.81
+451,VRL Logistics,205.0,30th Apr,288.0,293.3,43.07,228.05,11.24
+452,O. P. Chains,11.0,22nd Apr,11.25,11.81,7.36,11.0,0.0
+453,Athena Constr,10.0,16th Apr,15.71,15.4,54.0,8.0,-20.0
+454,HKG,15.0,15th Apr,14.25,2.85,-81.0,41.1,174.0
+455,Filtra Consult,42.0,15th Apr,44.9,14.97,-64.36,8.25,-80.36
+456,Inox Wind,325.0,9th Apr,400.0,438.0,34.77,73.1,-77.51
+457,Imagicaaworld,180.0,6th Apr,167.95,191.25,6.25,6.99,-96.12
+458,Supreme India,60.0,31st Mar,62.0,,,26.0,-56.67
+459,AGI Infra,54.0,27th Mar,54.4,54.65,1.2,97.45,80.46
+460,SVP Housing,10.0,27th Mar,10.1,10.1,1.0,9.7,-3.0
+461,SSPN Finance,20.0,26th Mar,14.4,7.2,-64.0,18.05,-9.75
+462,Akme Star,30.0,20th Mar,31.5,15.88,-47.07,72.75,142.5
+463,Ortel Comm,181.0,19th Mar,181.0,171.95,-5.0,0.95,-99.48
+464,Laxmipati Eng.,25.0,6th Mar,26.1,,,27.25,9.0
+465,Chemtech Ind,15.0,18th Feb,14.35,,,7.51,-49.93
+466,Karnavati Fin,10.0,5th Feb,10.6,,,18.0,80.0
+467,Raghuvansh Agro,11.0,28th Jan,11.55,,,152.0,1281.82
+468,Sanco Ind,18.0,6th Jan,19.4,19.4,7.78,7.95,-55.83
+469,Amsons Apparels,10.0,6th Jan,7.6,7.65,-23.5,0.73,-92.7
+470,Monte Carlo,645.0,19th Dec,585.0,566.4,-12.19,212.45,-67.06
+471,Anubhav Infra,15.0,12th Dec,14.15,14.15,-5.67,3.61,-75.93
+472,Captain Pipes,40.0,11th Dec,41.9,39.85,-0.37,20.0,-50.0
+473,Aanchal Ispat,20.0,10th Dec,22.1,21.0,5.0,5.75,-71.25
+474,Jet Infra,125.0,25th Nov,130.0,64.55,-48.36,79.0,-36.8
+475,JLA Infraville,10.0,12th Nov,11.05,11.6,16.0,11.2,12.0
+476,Starlit Power,0.0,22nd Oct,18.95,15.16,0.0,16.25,
+477,Ceinsys Tech,40.0,22nd Oct,45.65,41.5,3.75,138.4,246.0
+478,Vibrant Global,19.0,21st Oct,19.2,,,19.9,4.74
+479,Hanman Fit,30.0,21st Oct,31.5,,,2.0,-93.33
+480,Aryaman Cap,12.0,20th Oct,12.2,12.4,3.33,38.35,219.58
+481,Dhabriya Poly,15.0,17th Oct,16.5,13.4,-10.67,50.0,233.33
+482,Momai Apparels,78.0,16th Oct,78.0,79.7,2.18,156.3,100.38
+483,Atishay,16.0,16th Oct,17.75,14.76,-7.75,31.4,96.25
+484,Race Eco Chain,10.0,10th Oct,10.02,,,262.9,2529.0
+485,Ultracab India,36.0,10th Oct,38.0,25.37,-29.53,128.1,255.83
+486,Shemaroo Ent,170.0,1st Oct,180.0,171.0,0.59,69.25,-59.26
+487,Encash Ent,40.0,29th Sep,46.2,46.2,15.5,25.85,-35.38
+488,Naysaa Sec,15.0,25th Sep,14.3,,,26.7,78.0
+489,Sirohia & Sons,12.0,24th Sep,11.8,11.8,-1.67,8.68,-27.67
+490,Sharda Crop,156.0,23rd Sep,254.1,231.45,48.37,285.25,82.85
+491,Snowman Logist,47.0,12th Sep,75.0,78.75,67.55,44.15,-6.06
+492,Vishal Fabrics,45.0,20th Aug,45.2,17.04,-62.13,67.45,49.89
+493,Trivikrama Ind,15.0,12th Aug,13.65,,,5.7,-62.0
+494,Bhanderi Infra,120.0,11th Aug,113.5,,,128.7,7.25
+495,Oasis Tradelink,30.0,14th Jul,35.09,,,0.92,-96.93
+496,Tarini Int,41.0,26th Jun,42.0,41.9,2.2,14.95,-63.54
+497,Moneyboxx Finan,10.0,11th Jun,10.0,,,67.95,579.5
+498,SPS Finquest,75.0,3rd Jun,78.0,,,103.0,37.33
+499,GCM Capital,20.0,22nd May,33.55,,,1.34,-93.3
+500,Bansal Roofing,30.0,14th May,31.5,,,58.5,95.0
+501,Wonderla,125.0,9th May,164.75,157.6,26.08,193.35,54.68
+502,R&B Denims,10.0,22nd Apr,10.55,11.05,10.5,40.65,306.5
+503,Womens Next,65.0,22nd Apr,67.0,68.0,4.62,0.89,-98.63
+504,Oceanaa Biotek,10.0,3rd Apr,9.75,5.94,-40.6,6.25,-37.5
+505,Krishna Prasad,10.0,28th Mar,11.9,12.45,24.5,2.01,-79.9
+506,Karnimata Cold,20.0,18th Mar,29.05,,,6.75,-66.25
+507,B C Power Contr,18.0,14th Mar,18.1,,,3.19,-82.28
+508,Unishire Urban,10.0,28th Feb,12.05,11.45,14.5,1.25,-87.5
+509,Polymac Thermo,35.0,28th Feb,37.0,37.0,5.71,11.65,-66.71
+510,Agrimony Comm,10.0,18th Feb,14.35,,,4.2,-58.0
+511,Suyog Tele,25.0,22nd Jan,25.2,21.04,-15.84,380.5,1422.0
+512,RCI Industries,40.0,21st Jan,41.0,,,7.65,-80.88
+513,Tentiwala Metal,13.0,31st Dec,12.5,11.9,-8.46,3.4,-73.85
+514,Captain Poly,30.0,11th Dec,33.0,5.11,-82.97,43.55,45.17
+515,Mitcon Cons,61.0,1st Nov,60.0,51.1,-16.23,40.8,-33.11
+516,Stellar Capital,20.0,1st Nov,20.1,19.1,-4.5,1.98,-90.1
+517,Amrapali Cap,100.0,31st Oct,100.6,101.1,1.1,5.71,-94.29
+518,SRG Securities,20.0,29th Oct,24.25,,,35.2,76.0
+519,VCU Data Mgmt,25.0,23rd Oct,36.25,36.25,45.0,6.39,-74.44
+520,Subh Tex India,10.0,22nd Oct,12.6,,,15.7,57.0
+521,Newever Trade,10.0,17th Oct,12.8,,,2.16,-78.4
+522,Satkar Finlease,18.0,11th Oct,20.85,,,1.73,-90.39
+523,Ace Tours,16.0,26th Sep,24.95,,,2.08,-87.0
+524,R J Bio-Tech,20.0,25th Sep,22.05,,,5.64,-71.8
+525,Tiger Logistics,66.0,12th Sep,69.1,,,46.65,-29.32
+526,Kushal,35.0,4th Sep,7.16,,,5.04,-85.6
+527,VKJ Infra,25.0,30th Aug,23.8,,,0.23,-99.08
+528,Silverpoint,15.0,28th Aug,13.0,13.6,-9.33,8.0,-46.67
+529,Alacrity Sec,15.0,14th Aug,12.05,,,6.9,-54.0
+530,GCM Commodity,20.0,14th Aug,20.3,,,8.78,-56.1
+531,Edynamics Sol,25.0,26th Jun,26.15,26.65,6.6,0.28,-98.88
+532,India Finsec,10.0,11th Jun,10.5,,,7.37,-26.3
+533,Just Dial,530.0,5th Jun,590.0,611.45,15.37,847.5,59.91
+534,SDC Tech,14.0,5th Jun,12.4,12.4,-11.43,7.3,-47.86
+535,Ashapura Intima,40.0,15th Apr,49.95,,,1.35,-96.63
+536,Samruddhi Real,12.0,12th Apr,9.47,,,4.8,-60.0
+537,GCM Securities,20.0,5th Apr,6.83,,,3.45,-82.75
+538,Lakhotia Poly,35.0,4th Apr,12.05,,,8.09,-76.89
+539,Repco Home,172.0,1st Apr,159.95,160.85,-6.48,320.45,86.31
+540,Bothra Metals,25.0,25th Mar,25.0,25.0,0.0,3.6,-85.6
+541,HPC Bio,35.0,19th Mar,37.25,3.91,-88.83,25.95,-25.86
+542,NIBE,40.0,12th Mar,40.9,13.53,-66.18,21.45,-46.38
+543,Channel Nine,25.0,12th Mar,26.25,1.76,-92.96,12.12,-51.52
+544,Sunstar Realty,20.0,11th Mar,21.45,2.25,-88.75,0.19,-99.05
+545,Esteem Bio,25.0,7th Feb,25.25,1.62,-93.52,5.41,-78.36
+546,Eco Friendly,25.0,14th Jan,24.5,1.05,-95.8,10.62,-57.52
+547,INDUS TOWERS,220.0,28th Dec,200.0,191.2,-13.09,240.8,9.45
+548,PC Jeweller,135.0,27th Dec,137.0,74.5,-44.81,25.8,-80.89
+549,CARE Ratings,750.0,26th Dec,940.0,923.95,23.19,426.25,-43.17
+550,Veto Switch,50.0,13th Dec,58.0,,,120.55,141.1
+551,Tara Jewels,230.0,6th Dec,242.0,229.95,-0.02,0.76,-99.67
+552,Bronze Infra,15.0,7th Nov,16.7,16.3,8.67,0.59,-96.07
+553,RCL Retail,10.0,16th Oct,10.1,10.45,4.5,13.2,32.0
+554,Aditri Industri,27.0,12th Oct,26.85,13.58,-49.7,0.89,-96.7
+555,Comfort Comm,10.0,24th Sep,10.3,10.8,8.0,6.5,-35.0
+556,Thejo Engg,402.0,18th Sep,403.0,,,,181.62
+557,SRG Housing Fin,20.0,11th Sep,20.3,14.5,-27.5,195.0,875.0
+558,Jointeca Edu,15.0,4th Sep,15.2,15.0,0.0,13.35,-11.0
+559,Jupiter Infomed,20.0,16th Aug,22.0,11.03,-44.85,27.55,37.75
+560,Sangam Renewabl,22.0,9th Aug,22.1,14.01,-36.32,49.75,126.14
+561,VKS Projects,55.0,18th Jul,55.8,1.57,-97.15,0.04,-99.93
+562,Max Alert Syste,20.0,13th Jul,51.5,49.25,146.25,4.39,-78.05
+563,Looks Health,40.0,30th May,42.0,,,6.27,-84.33
+564,Speciality Rest,150.0,30th May,153.0,160.65,7.1,42.85,-71.43
+565,Tribhovandas,120.0,9th May,115.0,111.2,-7.33,63.5,-47.08
+566,MT Educare,80.0,12th Apr,86.05,90.35,12.94,6.72,-91.6
+567,NBCC (India),106.0,12th Apr,100.0,6.47,-93.9,45.35,-57.22
+568,Olympic Cards,30.0,28th Mar,29.95,28.5,-5.0,2.5,-91.67
+569,Pyxis Finvest,25.0,14th Mar,27.0,25.35,1.4,32.0,28.0
+570,MCX India,1032.0,9th Mar,1387.0,1297.05,25.68,,47.43
+571,V-Mart Retail,210.0,20th Feb,214.0,,,,1178.0
+572,Indo Thai Secu,74.0,2nd Nov,76.0,23.0,-68.92,50.25,-32.09
+573,Vaswani Ind,49.0,24th Oct,33.45,17.75,-63.78,9.66,-80.29
+574,Ujaas Energy,186.0,20th Oct,180.0,31.76,-82.92,2.59,-98.61
+575,Taksheel Solut,150.0,19th Oct,157.4,58.15,-61.23,3.85,-97.43
+576,Flexituff Ventu,155.0,19th Oct,155.0,166.4,7.35,17.5,-88.71
+577,Onelife Capital,110.0,17th Oct,115.0,145.9,32.64,7.37,-93.3
+578,Tijaria Polypip,60.0,14th Oct,62.0,18.1,-69.83,6.85,-88.58
+579,Setubandhan Inf,138.0,4th Oct,145.0,22.95,-83.37,0.79,-99.43
+580,PG Electroplast,210.0,26th Sep,200.0,411.65,96.02,370.45,76.4
+581,SRS,58.0,16th Sep,55.0,16.83,-70.98,0.19,-99.67
+582,TD Power System,256.0,8th Sep,251.6,274.8,7.34,145.15,-43.3
+583,Brooks Labs,100.0,5th Sep,110.0,50.2,-49.8,50.85,-49.15
+584,Tree House,135.0,26th Aug,132.8,116.55,-13.67,7.0,-94.81
+585,L&T Finance,52.0,12th Aug,53.85,46.46,-10.65,92.35,77.6
+586,Inventure Grow,117.0,4th Aug,119.0,51.99,-55.56,29.45,-74.83
+587,Bharatiya Glob,82.0,28th Jul,84.0,30.95,-62.26,1.3,-98.41
+588,Kridhan Infra,108.0,13th Jul,115.0,13.29,-87.69,3.79,-96.49
+589,Rushil Decor,72.0,7th Jul,81.25,104.49,45.12,213.2,196.11
+590,Birla Pacific,10.0,7th Jul,10.1,25.35,153.5,0.28,-97.2
+591,Timbor Home,63.0,22nd Jun,72.0,91.2,44.76,2.21,-96.49
+592,VMS Industries,40.0,14th Jun,43.95,28.5,-28.75,7.98,-80.05
+593,Dr Datson Labs,234.0,27th May,218.0,311.25,33.01,6.29,-97.31
+594,Sanghvi Forging,85.0,23rd May,88.0,111.75,31.47,19.2,-77.41
+595,Innoventive Ind,117.0,13th May,110.0,93.6,-20.0,4.2,-96.41
+596,Servalakshmi,29.0,12th May,30.0,19.0,-34.48,1.33,-95.41
+597,Future Consumer,10.0,10th May,9.5,8.3,-17.0,6.57,-34.3
+598,Paramount Print,35.0,9th May,35.0,26.65,-23.86,0.82,-97.66
+599,Muthoot Finance,175.0,6th May,176.45,176.25,0.71,,571.03
+600,Shilpi Cable,69.0,8th Apr,78.35,23.8,-65.51,1.1,-98.41
+601,PTC India Fin,28.0,30th Mar,28.0,24.9,-11.07,17.7,-36.79
+602,Lovable Lingeri,205.0,24th Mar,261.5,249.2,21.56,80.1,-60.93
+603,Sudar Ind,77.0,11th Mar,74.0,113.1,46.88,1.02,-98.68
+604,Fineotex Chem,70.0,11th Mar,80.0,14.09,-79.87,58.5,-16.43
+605,Acropetal Tech,90.0,10th Mar,130.0,98.45,9.39,1.67,-98.14
+606,Omkar Special,98.0,10th Feb,95.0,46.2,-52.86,10.23,-89.56
+607,C Mahendra Expo,110.0,20th Jan,111.0,55.43,-49.61,1.79,-98.37
+608,Shekhawati Poly,30.0,12th Jan,32.5,4.75,-84.17,0.38,-98.73
+609,Punjab & Sind,120.0,30th Dec,146.1,127.05,5.87,16.4,-86.33
+610,A2Z Infra Eng,400.0,23rd Dec,390.0,328.9,-17.78,3.85,-99.04
+611,Claris Life,228.0,20th Dec,224.4,205.85,-9.71,396.55,73.93
+612,MOIL,375.0,15th Dec,551.0,233.25,-37.8,136.1,-63.71
+613,RPP Infra Proj,75.0,6th Dec,75.0,68.95,-8.07,58.65,-21.8
+614,Gravita India,125.0,16th Nov,218.75,42.08,-66.34,90.4,-27.68
+615,Coal India,245.0,4th Nov,300.0,342.35,39.73,127.8,-47.84
+616,Gyscoal Alloys,71.0,27th Oct,76.6,8.16,-88.51,2.04,-97.13
+617,Prestige Estate,183.0,27th Oct,190.0,192.55,5.22,295.35,61.39
+618,BS Limited,248.0,27th Oct,251.0,18.93,-92.37,0.33,-99.87
+619,Oberoi Realty,260.0,20th Oct,280.0,282.95,8.83,550.6,111.77
+620,Commercial Eng,127.0,18th Oct,122.8,112.25,-11.61,16.0,-87.4
+621,Bedmutha Ind,102.0,14th Oct,114.4,180.8,77.25,22.05,-78.38
+622,Ashoka Buildcon,324.0,14th Oct,333.55,73.33,-77.37,93.35,-71.19
+623,Sea TV Network,100.0,14th Oct,120.0,106.0,6.0,1.1,-98.9
+624,Va Tech Wabag,1310.0,13th Oct,1655.0,341.88,-73.9,231.15,-82.35
+625,Cantabil Retail,135.0,12th Oct,133.8,104.75,-22.41,372.55,175.96
+626,Tecpro Systems,355.0,12th Oct,399.4,407.85,14.89,4.53,-98.72
+627,Gallantt Ispat,50.0,11th Oct,81.6,8.16,-83.68,37.1,-25.8
+628,Ramky Infra,450.0,8th Oct,450.0,387.35,-13.92,77.6,-82.76
+629,Orient Green,47.0,8th Oct,45.7,44.9,-4.47,2.06,-95.62
+630,Electrosteel St,11.0,8th Oct,11.15,11.25,2.27,31.05,182.27
+631,Eros Intl,175.0,6th Oct,213.55,190.05,8.6,24.85,-85.8
+632,Career Point,310.0,6th Oct,461.0,632.35,103.98,137.0,-55.81
+633,Sasta Sundar,118.0,5th Oct,135.1,110.9,-6.02,117.5,-0.42
+634,Tirupati Inks,43.0,1st Oct,53.95,36.65,-14.77,1.59,-96.3
+635,Indosolar,29.0,29th Sep,29.75,23.7,-18.28,2.14,-92.62
+636,Gujarat Pipavav,46.0,9th Sep,56.25,54.05,17.5,94.1,104.57
+637,Prakash Steelag,110.0,25th Aug,118.55,18.8,-82.91,0.8,-99.27
+638,Bajaj Consumer,660.0,18th Aug,730.0,151.65,-77.02,250.6,-62.03
+639,Bharat Fin,985.0,16th Aug,1036.0,1088.58,10.52,898.2,-8.81
+640,Shri Aster,118.0,28th Jul,127.7,199.1,68.73,1.28,-98.92
+641,Hindustan Media,166.0,21st Jul,177.95,189.2,13.98,58.4,-64.82
+642,Technofab Engg,240.0,16th Jul,265.0,295.65,23.19,7.57,-96.85
+643,Parabolic Drugs,75.0,1st Jul,76.0,64.8,-13.6,5.7,-92.4
+644,Jaypee Infra,102.0,21st May,98.0,91.3,-10.49,1.63,-98.4
+645,SJVN,26.0,20th May,27.1,25.05,-3.65,25.1,-3.46
+646,GB Global,130.0,19th May,131.0,133.65,2.81,7.35,-94.35
+647,Tarapur Trans,75.0,18th May,75.0,56.9,-24.13,3.71,-95.05
+648,NEL HOLDINGS SO,54.0,13th May,50.0,50.95,-5.65,1.68,-96.89
+649,Talwalkars Fitn,128.0,10th May,138.0,162.6,27.03,1.45,-98.87
+650,Goenka Diamond,135.0,16th Apr,130.0,12.79,-90.53,1.9,-98.59
+651,Intrasoft Tech,145.0,12th Apr,140.0,159.35,9.9,68.5,-52.76
+652,Shree Ganesh,260.0,9th Apr,258.85,163.25,-37.21,0.82,-99.68
+653,Persistent,310.0,6th Apr,400.0,204.0,-34.19,,503.68
+654,Pradip Overseas,110.0,5th Apr,120.0,89.29,-18.83,0.95,-99.14
+655,ILandFS Trans,258.0,30th Mar,287.0,253.68,-1.67,2.3,-99.11
+656,DQ Entertain,80.0,29th Mar,135.0,108.55,35.69,1.14,-98.58
+657,United Bank,66.0,18th Mar,77.0,68.8,4.24,4.48,-93.21
+658,Man Infra,252.0,11th Mar,335.0,69.65,-72.36,37.8,-85.0
+659,Texmo Pipes,90.0,10th Mar,92.8,137.25,52.5,24.35,-72.94
+660,ARSS Infra,450.0,3rd Mar,640.0,736.3,63.62,21.2,-95.29
+661,Hathway Cable,240.0,25th Feb,246.0,41.56,-82.68,28.25,-88.23
+662,Emmbi Ind,45.0,24th Feb,46.0,28.65,-36.33,80.2,78.22
+663,DB Realty,468.0,24th Feb,452.1,455.4,-2.69,24.9,-94.68
+664,Aqua Logistics,220.0,23rd Feb,225.0,24.46,-88.88,1.4,-99.36
+665,Thangamayil,75.0,19th Feb,70.0,71.1,-5.2,596.0,694.67
+666,Syncom Health,75.0,15th Feb,88.0,87.85,17.13,2.25,-97.0
+667,Vascon Engineer,165.0,15th Feb,155.9,146.38,-11.28,17.55,-89.36
+668,Jubilant Food,145.0,8th Feb,160.0,114.5,-21.03,,1865.17
+669,Infinite Comp,165.0,3rd Feb,178.35,184.51,11.82,473.75,187.12
